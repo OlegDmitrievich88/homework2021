@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+    </string-array>
+
+    <string-array name="notes">
+        <item>good day</item>
+        <item>crazy night</item>
+        <item>heavy morning</item>
+        <item>drunk evening</item>
+    </string-array>
+</resources>
